@@ -1,2 +1,8 @@
-# acg-project-azure-resume
-Github repo of materials for ACG Project: Your own resume in Azure
+# azure-resume
+
+My own azure resume, following [ACG project video.](youtube.com/acloudguru)
+
+## First steps
+
+- Frontend folder contains the website.
+- main.js contains visitor counter code.
