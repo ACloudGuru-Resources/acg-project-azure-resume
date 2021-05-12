@@ -2,7 +2,7 @@
 
 ## Prerequisites
 
-- [Starter code](https://github.com/ACloudGuru-Resources/acg-project-azure-resume-starter)
+- [Starter code repo](https://github.com/ACloudGuru-Resources/acg-project-azure-resume-starter)
 - [GitHub account](https://github.com/join)
 - [Azure account](https://azure.microsoft.com/en-us/free)
 - [Azure CLI](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli)
